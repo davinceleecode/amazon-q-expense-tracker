@@ -17,10 +17,10 @@ A basic expense tracking application built with React that allows users to add, 
 
 ## How to Use
 
-1. Clone or download this repository
-2. Install dependencies with `npm install`
-3. Start the development server with `npm start`
-4. Open your browser to the local development server (typically http://localhost:3000)
+1. Clone or download this repository.
+2. Install dependencies with `npm install`.
+3. Start the development server with `npm run dev`.
+4. Open your browser to the local development server (typically [http://localhost:5173](http://localhost:5173)).
 
 ## Implementation Details
 
